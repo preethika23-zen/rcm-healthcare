@@ -1,0 +1,16 @@
+patientName,patientId,payerName,cptCode,icd10Codes,billedAmount,patientAge,providerNpi,placeOfService,priorAuthObtained,insuranceActive,documentationComplete
+Ravi Kumar,P1001,Medicare,99214,"I10, E11.9",250,67,1234567890,11,Yes,Yes,Yes
+Meena Suresh,P1002,Aetna,93000,I20.9,1200,54,2345678901,22,No,Yes,Yes
+Arun Karthik,P1003,Cigna,99213,J06.9,300,29,3456789012,11,Yes,No,No
+Priya Nair,P1004,UnitedHealthcare,71046,R05.9,480,42,4567890123,19,No,Yes,Yes
+Sanjay Patel,P1005,Blue Cross Blue Shield,80053,E78.5,210,58,5678901234,81,Yes,Yes,Yes
+Lakshmi Devi,P1006,Humana,99215,M54.50,410,73,6789012345,11,Yes,Yes,No
+Karthika R,P1007,Medicaid,90471,Z23,145,8,7890123456,03,No,Yes,Yes
+Mohammed Asif,P1008,Aetna,36415,E11.65,85,49,8901234567,22,Yes,Yes,Yes
+Divya Shree,P1009,Cigna,99204,N39.0,650,36,9012345678,11,No,Yes,No
+Gokul Raj,P1010,Medicare,70553,G43.909,1850,61,1122334455,22,Yes,Yes,Yes
+Anitha Joseph,P1011,UnitedHealthcare,93010,R07.9,190,47,2233445566,23,No,Yes,Yes
+Vignesh M,P1012,Humana,99212,K21.9,175,33,3344556677,11,Yes,Yes,Yes
+Harini Bala,P1013,Blue Cross Blue Shield,97110,M25.561,520,28,4455667788,49,No,Yes,Yes
+Sathish Kumar,P1014,Medicaid,81002,N18.9,95,64,5566778899,11,Yes,No,Yes
+Nandhini P,P1015,Cigna,99203,L30.9,390,25,6677889900,11,No,Yes,Yes
